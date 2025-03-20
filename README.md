@@ -20,7 +20,7 @@ Bu proje, modern ve mobil uyumlu bir hamburger sipariş sitesidir. Vue.js ve Tai
 ## Kurulum
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/burger-house.git
+git clone https://github.com/dheriau/burger-house.git
 ```
 
 2. Proje dizinine gidin:
@@ -125,4 +125,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 - Website: [www.burgerhouse.com](http://www.burgerhouse.com)
 - Email: info@burgerhouse.com
 - Twitter: [@burgerhouse](https://twitter.com/burgerhouse)
-- Instagram: [@burgerhouse](https://instagram.com/burgerhouse) 
+- Instagram: [@burgerhouse](https://instagram.com/burgerhouse)
